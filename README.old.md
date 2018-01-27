@@ -1,0 +1,2 @@
+# component
+TypeScript/React Component
